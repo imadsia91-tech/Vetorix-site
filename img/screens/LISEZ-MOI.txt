@@ -1,0 +1,16 @@
+Placez ici vos vraies captures d'ecran (PNG). La page les affiche automatiquement a la place des illustrations,
+et l'etiquette "Illustration" disparait. Noms exacts attendus :
+
+  dashboard.png            Tableau de bord (utilise aussi en haut de page)
+  connexion.png            Ecran de connexion
+  salle-attente.png        Salle d'attente
+  consultation.png         Nouvelle consultation
+  fiche-animal.png         Fiche patient
+  stock.png                Stock medicaments
+  factures.png             Factures et dettes
+  tresorerie.png           Tresorerie (onglet Graphiques)
+  rappels.png              Rappels clients
+  mot-de-passe-oublie.png  Fenetre "Identifiants oublies"
+
+Conseil : fenetre Vetorix en 1280x760 environ, capture avec Win+Maj+S, enregistrer en PNG.
+(ar.html utilise dashboard, consultation, stock et factures.)
