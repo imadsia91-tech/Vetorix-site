@@ -2,7 +2,7 @@
   var d = document, h = d.documentElement;
   h.classList.add('js');
   var lang = (h.lang || 'fr').slice(0, 2);
-  var PHONE_WA = '213540574820', MAIL = 'imadsia91@gmail.com';
+  var PHONE_WA = '213540574820', MAIL = 'imadsiakheneabderrahmane@gmail.com';
 
   /* mobile menu */
   var burger = d.querySelector('.burger'), nav = d.querySelector('.nav');
